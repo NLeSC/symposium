@@ -7,7 +7,7 @@ participants:
   - image: participants-logos/netherlands-escience-center-logo-RGB.png
     link: https://www.esciencecenter.nl/
     
-   - image: participants-logos/1200px-US-OfficeOfScienceAndTechnologyPolicy-Seal.svg.png
+  - image: participants-logos/1200px-US-OfficeOfScienceAndTechnologyPolicy-Seal.svg.png
     link: https://www.whitehouse.gov/ostp/
   
   - image: participants-logos/Agence nationale de la recherche, ANR (France).jpeg
