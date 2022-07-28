@@ -90,5 +90,8 @@ participants:
     
   - image: /participants-logos/csic.png
     link: https://www.csic.es/en/csic
+    
+  - image: /participants-logos/Research Center for Open Science and Data Platform - Japan.png
+    link: https://rcos.nii.ac.jp/en/
 
 ---
