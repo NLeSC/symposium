@@ -87,5 +87,8 @@ participants:
     
   - image: /participants-logos/Science Europe.jpeg
     link: https://www.scienceeurope.org/
+    
+  - image: /participants-logos/csic.png
+    link: https://www.csic.es/en/csic
 
 ---
