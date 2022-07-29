@@ -93,5 +93,8 @@ participants:
     
   - image: /participants-logos/Research Center for Open Science and Data Platform - Japan.png
     link: https://rcos.nii.ac.jp/en/
+    
+  - image: /participants-logos/NII-Japan.png
+    link: https://www.nii.ac.jp/en/
 
 ---
