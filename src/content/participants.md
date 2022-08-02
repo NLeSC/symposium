@@ -99,5 +99,8 @@ participants:
     
   - image: /participants-logos/RDA Logo_5.png
     link: https://www.rd-alliance.org/
+    
+  - image: /participants-logos/FAPERJ.jpeg
+    link: https://www.faperj.br/
 
 ---
