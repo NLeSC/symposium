@@ -105,5 +105,8 @@ participants:
     
   - image: /participants-logos/logo_fapemig.jpeg
     link: http://www.fapemig.br/pt/
+    
+  - image: /participants-logos/logo splash.jpg
+    link: https://ancperu.org/
 
 ---
