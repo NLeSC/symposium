@@ -102,5 +102,8 @@ participants:
     
   - image: /participants-logos/FAPERJ.jpeg
     link: https://www.faperj.br/
+    
+  - image: /participants-logos/logo_fapemig.jpeg
+    link: http://www.fapemig.br/pt/
 
 ---
