@@ -96,5 +96,8 @@ participants:
     
   - image: /participants-logos/NII-Japan.png
     link: https://www.nii.ac.jp/en/
+    
+  - image: /participants-logos/RDA Logo_5.png
+    link: https://www.rd-alliance.org/
 
 ---
