@@ -108,5 +108,8 @@ participants:
     
   - image: /participants-logos/logo splash.jpg
     link: https://ancperu.org/
+    
+  - image: /participants-logos/RoRI_logo_1.png
+    link: https://researchonresearch.org/
 
 ---
