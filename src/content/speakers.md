@@ -11,25 +11,9 @@ members:
 
   - name: How Can Funders Contribute to Sustainable Research Software
     image: https://picsum.photos/id/30/200.webp
-    desc: Fabio Kon is a Full Professor of Computer Science at the Institute of Mathematics and Statistics at the University of São Paulo (IME-USP). He carries out research in the fields of Software Engineering, Smart Cities, Free and Open Source Software, and Innovation and  Technological Entrepreneurship. In 2013, he was Visiting Professor at the Technion, Israel, where he conducted research on Software Startup Ecosystems and Digital Entrepreneurship. In 2018-19, he was a Visiting Professor at MIT, USA, where he researched data science applied to Smart Cities. 
- 
-Prof. Kon is highly involved in education and in promoting the best practices of software engineering, open-source software, and open science. He is a member of the São Paulo Research Foundation (FAPESP) Adjunct Panel for Exact Sciences and Engineering.
+    desc: "Fabio Kon is a Full Professor of Computer Science at the Institute of Mathematics and Statistics at the University of São Paulo (IME-USP). He carries out research in the fields of Software Engineering, Smart Cities, Free and Open Source Software, and Innovation and  Technological Entrepreneurship. In 2013, he was Visiting Professor at the Technion, Israel, where he conducted research on Software Startup Ecosystems and Digital Entrepreneurship. In 2018-19, he was a Visiting Professor at MIT, USA, where he researched data science applied to Smart Cities.
 
-  - name: Name van Last
-    image: https://picsum.photos/id/40/200.webp
-    desc: Name van Last works as a software developer in the Science Data Centre project....
-
-  - name: Name van Last
-    image: https://picsum.photos/id/50/200.webp
-    desc: Name van Last works as a software developer in the Science Data Centre project....
-
-  - name: Name van Last
-    image: https://picsum.photos/id/60/200.webp
-    desc: Name van Last works as a software developer in the Science Data Centre project....
-
-  - name: Name van Last
-    image: https://picsum.photos/id/70/200.webp
-    desc: Name van Last works as a software developer in the Science Data Centre project....
+Prof. Kon is highly involved in education and in promoting the best practices of software engineering, open-source software, and open science. He is a member of the São Paulo Research Foundation (FAPESP) Adjunct Panel for Exact Sciences and Engineering."
 
 ---
 
