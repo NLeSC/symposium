@@ -1,5 +1,6 @@
 <script>
   import SpeakersIntroduction from "$content/speakers.md";
+  import SvelteMarkdown from 'svelte-markdown';
 
   export const [{ metadata }] = Object.values(import.meta.globEager("$content/speakers.md"))
 </script>
@@ -18,7 +19,9 @@
             <h4 class="mb-2 text-2xl font-bold font-heading">
               { member.name }
             </h4>
-            <p class="mb-4 text-gray-700 leading-loose">{ member.desc }</p>
+            <p class="mb-4 text-gray-700 leading-loose">
+              <SvelteMarkdown source={member.desc} />
+            </p>
           </div>
         </div>
       </div>

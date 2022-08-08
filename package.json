@@ -43,6 +43,7 @@
 	"type": "module",
 	"dependencies": {
 		"@fontsource/fira-mono": "^4.5.8",
-		"daisyui": "^2.17.0"
+		"daisyui": "^2.17.0",
+		"svelte-markdown": "^0.2.2"
 	}
 }
