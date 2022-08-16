@@ -55,9 +55,6 @@ participants:
   - image: /participants-logos/fapesp-logo_464.png
     link: https://fapesp.br/en
     
-  - image: /participants-logos/nih-logo-color-tagline-CROP.jpeg
-    link: https://www.nih.gov/
-    
   - image: /participants-logos/National Science Foundation (1).jpg
     link: https://www.nsf.gov/
     
