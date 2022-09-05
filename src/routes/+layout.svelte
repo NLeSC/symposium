@@ -7,6 +7,8 @@
 
   const [{metadata}] = Object.values(import.meta.globEager("$content/menu-items.md"))
 
+  export const prerender = true;
+
   afterNavigate(() => {
     // document.getElementById("main").scrollTop = 0;
   });

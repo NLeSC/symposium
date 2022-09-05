@@ -1,6 +1,6 @@
 import path from "path";
 import { mdsvex } from "mdsvex";
-import adapter from "@sveltejs/adapter-static";
+import adapter from "@sveltejs/adapter-auto";
 import preprocess from "svelte-preprocess";
 
 import svg from "@poppanator/sveltekit-svg";
