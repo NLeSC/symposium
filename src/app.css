@@ -18,12 +18,14 @@
     border-top-color: #EE9315;
     border-left-color: #EE9315;
 }
-
+.prose a{
+    @apply text-amber-500 no-underline hover:underline
+}
 a{
-    @apply text-amber-500 hover:underline
+    @apply text-amber-500  hover:underline
 }
 a.btn{
-    @apply hover:no-underline
+    @apply hover:no-underline text-current
 }
 
 html{

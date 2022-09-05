@@ -27,9 +27,6 @@ export default {
 
   kit: {
     adapter: adapter(),
-    prerender: {
-      default: true,
-    },
     // Override http methods in the Todo forms
     methodOverride: {
       allowed: ["PATCH", "DELETE"],
@@ -42,14 +39,6 @@ export default {
       $components: path.resolve("./src/lib/components"),
       $assets: path.resolve("./src/assets"),
       $content: path.resolve("./src/content"),
-    },
-
-    vite: {
-      plugins: [svg({})],
-      resolve: {},
-      // optimizeDeps: {
-      //   include: ["fuzzy"],
-      // },
     },
   },
 };

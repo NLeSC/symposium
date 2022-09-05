@@ -8,7 +8,7 @@
 
 <div class="max-w-screen-lg w-full mx-auto pt-20 px-3">
   <div class="font-bold text-2xl">
-    
+
   </div>
 
   <div>
@@ -18,10 +18,10 @@
           We will provide more information about accommodation options soon.
         </p>
         <p class="mt-8">
-          
+
         </p>
       </div>
-      
+
     </div>
     <br>
   </div>

@@ -38,7 +38,7 @@
               <!-- Navbar menu content here -->
               {#each metadata.menu as menu}
                 <li>
-                  <a class="text-lg font-bold text-white hover:text-white" href={menu.url}>
+                  <a class="font-bold text-white hover:text-white" href={menu.url}>
                     {menu.name}
                   </a>
                 </li>

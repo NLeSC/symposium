@@ -11,9 +11,9 @@
     {content.title1}
   </div>
 
-  <div>
-    <div class="flex gap-4">
-      <div class="w-2/3">
+  <div class="mt-8">
+    <div class="flex flex-col sm:flex-row gap-4">
+      <div class="sm:w-2/3 prose">
         <p class="">
           The <a target="_blank" href="https://www.researchsoft.org/">Research Software Alliance (ReSA)</a> is an international community of professionals whose
           mission is to “bring research software communities together
@@ -30,7 +30,7 @@
           things: they do research using digital technologies and methodologies, and they engineer software.
         </p>
       </div>
-      <div class="w-1/3 mt-6">
+      <div class="hidden sm:block sm:w-1/3 mt-6">
         <img src={content.image1} class="my-2 w-full h-auto rounded" alt="about part 2">
       </div>
     </div>
