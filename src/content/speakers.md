@@ -11,12 +11,7 @@ members:
 
   - name: How Can Funders Contribute to Sustainable Research Software
     image: https://www.future-of-research-software.org/FabioKon-IEA-Alta2%20(1).jpg
-    desc: "Fabio Kon is a Full Professor of Computer Science at the [Institute of Mathematics and Statistics at the University of São Paulo (IME-USP)](https://www.ime.usp.br/en/home/). He carries out research in the fields of Software Engineering, Smart Cities, Free and Open Source Software, and Innovation and  Technological Entrepreneurship. In 2013, he was Visiting Professor at the Technion, Israel, where he conducted research on Software Startup Ecosystems and Digital Entrepreneurship. In 2018-19, he was a Visiting Professor at [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/), USA, where he researched data science applied to Smart Cities.
-
-
-    <br/>
-Prof. Kon is highly involved in education and in promoting the best practices of software engineering, open-source software, and open science. He is a member of the [São Paulo Research Foundation (FAPESP)](https://fapesp.br/en/about) Adjunct Panel for Exact Sciences and Engineering."
-
+    desc: "Fabio Kon is a Full Professor of Computer Science at the [Institute of Mathematics and Statistics at the University of São Paulo (IME-USP)](https://www.ime.usp.br/en/home/). He carries out research in the fields of Software Engineering, Smart Cities, Free and Open Source Software, and Innovation and  Technological Entrepreneurship. In 2013, he was Visiting Professor at the Technion, Israel, where he conducted research on Software Startup Ecosystems and Digital Entrepreneurship. In 2018-19, he was a Visiting Professor at [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/), USA, where he researched data science applied to Smart Cities. <br> Prof. Kon is highly involved in education and in promoting the best practices of software engineering, open-source software, and open science. He is a member of the [São Paulo Research Foundation (FAPESP)](https://fapesp.br/en/about) Adjunct Panel for Exact Sciences and Engineering."
 ---
 
 ## Speakers
