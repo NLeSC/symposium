@@ -1,6 +1,6 @@
 import path from "path";
 import { mdsvex } from "mdsvex";
-import adapter from "@sveltejs/adapter-auto";
+import adapter from "@sveltejs/adapter-static";
 import preprocess from "svelte-preprocess";
 
 import svg from "@poppanator/sveltekit-svg";
@@ -26,7 +26,9 @@ export default {
   ],
 
   kit: {
-    adapter: adapter(),
+    adapter: adapter({
+      fallback: "200.html",
+    }),
     // Override http methods in the Todo forms
     methodOverride: {
       allowed: ["PATCH", "DELETE"],
