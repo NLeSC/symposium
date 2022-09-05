@@ -1,5 +1,6 @@
 <script>
-  export const [{ metadata: content }] = Object.values(import.meta.globEager("$content/accommodation.md"))
+  // export const [{ metadata: content }] = Object.values(import.meta.globEager("$content/accommodation.md"))
+  export let data;
 </script>
 
 <svelte:head>

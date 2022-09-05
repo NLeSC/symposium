@@ -1,5 +1,5 @@
 <script>
-  export const [{ metadata: content }] = Object.values(import.meta.globEager("$content/organizers.md"))
+  export let data;
 </script>
 
 <svelte:head>
@@ -8,7 +8,7 @@
 
 <div class="max-w-screen-lg w-full mx-auto pt-20 px-3">
   <div class="font-bold text-2xl">
-    {content.title1}
+    {data.title1}
   </div>
 
   <div class="mt-8">
@@ -31,18 +31,18 @@
         </p>
       </div>
       <div class="hidden sm:block sm:w-1/3 mt-6">
-        <img src={content.image1} class="my-2 w-full h-auto rounded" alt="about part 2">
+        <img src={data.image1} class="my-2 w-full h-auto rounded" alt="about part 2">
       </div>
     </div>
     <br>
   </div>
 
   <div class="font-bold text-2xl">
-    {content.title2}
+    {data.title2}
   </div>
 
   <section class="container mx-auto flex flex-wrap pb-10">
-    {#each content.advisory as member}
+    {#each data.advisory as member}
       <div class="p-4 w-full sm:w-1/2 lg:w-1/3">
         <div class="flex flex-col h-full p-4 items-center rounded shadow bg-white">
           <img class="rounded-full object-cover w-[150px] h-[150px]" alt={member.name} src={member.image}>
@@ -59,10 +59,10 @@
 
 
   <div class="font-bold text-2xl">
-    {content.title3} (Netherlands eScience Center)
+    {data.title3} (Netherlands eScience Center)
   </div>
   <section class="container mx-auto flex flex-wrap pb-10">
-    {#each content.organizers as member}
+    {#each data.organizers as member}
       <div class="p-4 w-full sm:w-1/2 lg:w-1/3">
         <div class="flex flex-col h-full p-4 items-center rounded shadow bg-white">
           <img class="rounded-full object-cover w-[150px] h-[150px]" alt={member.name} src={member.image}>

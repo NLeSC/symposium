@@ -1,7 +1,8 @@
 <script>
   import Carrousel from "$components/Carrousel.svelte";
 
-  export const [{ metadata: content }] = Object.values(import.meta.globEager("$content/venue.md"))
+  // export const [{ metadata: content }] = Object.values(import.meta.globEager("$content/venue.md"))
+  export let data
 </script>
 
 <svelte:head>
@@ -10,7 +11,7 @@
 
 <div class="max-w-screen-lg w-full mx-auto pt-20 px-3">
   <div class="font-bold text-2xl">
-    {content.title1}
+    {data.title1}
   </div>
 
   <div class="mt-8 grid gap-5 grid-cols-1 sm:grid-cols-2">

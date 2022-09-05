@@ -1,13 +1,12 @@
 <script lang="ts">
   import { afterNavigate } from "$app/navigation";
   import Logo from '$lib/Logo.svelte'
-  import SocialIcons from "$lib/SocialIcons.svelte"
   import AppFooter from "$lib/AppFooter.svelte";
   import "../app.css"
 
-  const [{metadata}] = Object.values(import.meta.globEager("$content/menu-items.md"))
 
-  export const prerender = true;
+  // const [{metadata}] = Object.values(import.meta.globEager("$content/menu-items.md"))
+  export let data
 
   afterNavigate(() => {
     // document.getElementById("main").scrollTop = 0;
@@ -38,7 +37,7 @@
             <Logo/>
             <ul class="menu menu-horizontal gap-3">
               <!-- Navbar menu content here -->
-              {#each metadata.menu as menu}
+              {#each data.menuItems?.menu as menu}
                 <li>
                   <a class="font-bold text-white hover:text-white" href={menu.url}>
                     {menu.name}
@@ -67,7 +66,7 @@
         </div>
         <!-- Sidebar content here -->
         <ul>
-          {#each metadata.menu as menu}
+          {#each data.menuItems?.menu as menu}
             <li>
               <a class="text-lg text-white hover:text-white"
                  href={menu.url}

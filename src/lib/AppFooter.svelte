@@ -35,7 +35,7 @@
       </div>
 
       <div class="text-gray-500">
-        
+
       </div>
     </div>
   </div>

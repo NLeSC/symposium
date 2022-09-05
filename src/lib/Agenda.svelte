@@ -1,8 +1,9 @@
 <script>
   import Event from "./components/Event.svelte";
 
-  export const [{ metadata: content }] = Object.values(import.meta.globEager("$content/agenda.md"))
+  // export const [{ metadata: content }] = Object.values(import.meta.globEager("$content/agenda.md"))
   import Carrousel from "./components/Carrousel.svelte";
+  export let data
 
 </script>
 
@@ -34,7 +35,7 @@
       </div>
       <!-- Map -->
       <div>
-        <!--        <img src={content.image1} class="my-2 w-full h-auto rounded" alt="about part 2">-->
+        <!--        <img src={data.image1} class="my-2 w-full h-auto rounded" alt="about part 2">-->
 
 
         <Carrousel/>
@@ -42,19 +43,23 @@
       </div>
 
     </div>
-
     <!--  Agenda -->
     <div class="text-3xl text-center my-20 italic">Workshop programme</div>
     <div class="mt-20 max-w-screen-md mx-auto mb-10">
       <div>
-        <div class="text-2xl font-bold mb-6"> Day 1</div>
-        {#each content.day1 as event}
+        <div class="text-2xl font-bold mb-6">Day 0</div>
+        {#each data.day0 as event}
+          <Event {event}/>
+        {/each}
+
+        <div class="text-2xl font-bold mt-10 mb-6">Day 1</div>
+        {#each data.day1 as event}
           <Event {event}/>
         {/each}
       </div>
       <div>
-        <div class="text-2xl font-bold mt-10 mb-6"> Day 2</div>
-        {#each content.day2 as event}
+        <div class="text-2xl font-bold mt-10 mb-6">Day 2</div>
+        {#each data.day2 as event}
           <Event {event}/>
         {/each}
       </div>

@@ -2,6 +2,7 @@
   import Billboard from "../lib/components/Billboard.svelte";
   import Participants from "../lib/components/Participants.svelte";
   import Agenda from "../lib/Agenda.svelte";
+  export let data
 </script>
 
 <svelte:head>
@@ -12,10 +13,9 @@
   <Billboard/>
 </div>
 
-<Agenda/>
+<Agenda data={data.agenda}/>
 
-
-<Participants/>
+<Participants data={data.participants.participants}/>
 <!--<div class="prose container mx-auto my-20 ">-->
 <!--  <ul>-->
 <!--    <li>Dutch Research Council, NWO (the Netherlands)</li>-->

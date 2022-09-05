@@ -27,7 +27,7 @@ export default {
 
   kit: {
     adapter: adapter({
-      fallback: "200.html",
+      // fallback: "200.html",
     }),
     // Override http methods in the Todo forms
     methodOverride: {

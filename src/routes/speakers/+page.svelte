@@ -2,7 +2,7 @@
   import SpeakersIntroduction from "$content/speakers.md";
   import SvelteMarkdown from 'svelte-markdown';
 
-  export const [{ metadata }] = Object.values(import.meta.globEager("$content/speakers.md"))
+  export let data;
 </script>
 
 <div class="container mx-auto mb-16 w-full text-center">
@@ -11,7 +11,7 @@
   </div>
 
   <section class="container mx-auto flex flex-wrap pb-10">
-    {#each metadata.members as member}
+    {#each data.members as member}
       <div class="p-4 w-full sm:w-1/2 lg:w-1/3">
         <div class="flex flex-col h-full p-4 items-center rounded shadow bg-white">
           <img width="200" height="200" class="rounded-full object-cover w-30 h-30" alt={member.name} src={member.image}>
