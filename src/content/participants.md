@@ -185,5 +185,10 @@ participants:
     link: https://researchonresearch.org/
     name: Research on Research Institute
     country: Global
+    
+  - image: /participants-logos/ioi-logo-sq-1.png
+    link: https://investinopen.org/
+    name: Invest in Open Infrastructure
+    country: Global
 
 ---
