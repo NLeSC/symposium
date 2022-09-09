@@ -190,5 +190,10 @@ participants:
     link: https://investinopen.org/
     name: Invest in Open Infrastructure
     country: Global
+    
+  - image: /participants-logos/ssi_logo_with_name-small2.png
+    link: https://www.software.ac.uk/
+    name: Software Sustainability Institute
+    country: United Kingdom
 
 ---
