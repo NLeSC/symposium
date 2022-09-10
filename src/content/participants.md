@@ -13,172 +13,192 @@ participants:
     
   - image: participants-logos/1200px-US-OfficeOfScienceAndTechnologyPolicy-Seal.svg.png
     link: https://www.whitehouse.gov/ostp/
-    name: 
-    country:
-  
+    name:  The White House - Office of Science and Technology Policy
+    country: United States of America
+    
+  - image: participants-logos/Chan_Zuckerberg_Initiative.svg.png
+    link: https://chanzuckerberg.com/
+    name: Chan Zuckerberg Initiative 
+    country: United States of America
+
+  - image: participants-logos/nasa-logo-web-rgb.png
+    link: https://www.nasa.gov/
+    name: NASA
+    country: United States of America
+
   - image: participants-logos/Agence nationale de la recherche, ANR (France).jpeg
     link: https://www.anr.fr/
-    name: 
-    country:
+    name: French National Research Agency
+    country: France
     
   - image: /participants-logos/Fonds zur Förderung der wissenschaftlichen Forschung, FWF (Austria) .png
     link: https://www.fwf.ac.at/de/
-    name: 
-    country:
+    name: Austrian Science Fund
+    country: Austria
 
   - image: /participants-logos/Deutsche Forschungsgemeinschaft, DFG (Germany).png
     link: https://www.dfg.de/
-    name: 
-    country:
+    name: German Research Foundation
+    country: Germany
 
   - image: /participants-logos/Forskningsråd, RCN (Norway) .png
     link: https://www.forskningsradet.no/en/
-    name: 
-    country:
+    name: The Research Council of Norway
+    country: Norway
 
   - image: /participants-logos/Fundação para a Ciência e Tecnologia, FCT (Portugal) .jpeg
     link: https://www.fct.pt/
-    name: 
-    country:
+    name: The Foundation for Science and Technology
+    country: Portugal
 
   - image: /participants-logos/Research Foundation Flanders - FWO.png
     link: https://www.fwo.be/
-    name: 
-    country:
+    name: Research Foundation – Flanders
+    country: Belgium 
 
   - image: /participants-logos/NWO logo - RGB.jpg
     link: https://www.nwo.nl/
-    name: 
-    country:
+    name: The Dutch Research Council 
+    country: The Netherlands
 
   - image: /participants-logos/Romania Executive Agency for Higher Education, Research, Development and Innovation Funding of Romania, UEFISCDI (Romania) .png
     link: https://www.uefiscdi.ro/
-    name: 
-    country:
+    name: Romania Executive Agency for Higher Education, Research, Development and Innovation Funding of Romania
+    country: Romania
 
   - image: /participants-logos/UK Research and Innovation, UKRI (UK) .png
     link: https://www.ukri.org/
-    name: 
-    country:
+    name: UK Research and Innovation
+    country: United Kingdom
 
   - image: /participants-logos/ARDC-logo-RGB.png
     link: https://ardc.edu.au/
-    name: 
-    country:
+    name: The Australian Research Data Common
+    country: Australia 
     
   - image: /participants-logos/Alliance_logo_English-first.png
     link: https://alliancecan.ca/en
-    name: 
-    country:
+    name: Digital Research Alliance of Canada 
+    country: Canada
     
   - image: /participants-logos/NICISlogo.png
     link: https://www.nicis.ac.za/
-    name: 
-    country:
+    name: National Integrated Cyberinfrastructure System
+    country: South Africa
 
   - image: /participants-logos/ScienceforAfricaFoundationlogo.png
     link: https://scienceforafrica.foundation/
-    name: 
-    country:
+    name: Science for Africa Foundation
+    country: Africa 
    
   - image: /participants-logos/LuxembourgNationalResearchFund.png
     link: https://www.fnr.lu/
-    name: 
-    country:
+    name: Luxembourg National Research Fund
+    country: Luxembourg
    
   - image: /participants-logos/fapesp-logo_464.png
     link: https://fapesp.br/en
-    name: 
-    country:
+    name: São Paulo Research Foundation
+    country: Brazil
     
   - image: /participants-logos/National Science Foundation (1).jpg
     link: https://www.nsf.gov/
-    name: 
-    country:
+    name: National Science Foundation
+    country: United States of America 
     
   - image: /participants-logos/NeSI logo.png
     link: https://www.nesi.org.nz/
-    name: 
-    country:
+    name: New Zealand eScience Infrastructure
+    country: New Zealand
     
   - image: /participants-logos/Alfred_P_Sloan_Foundation_Logo.png
     link: https://sloan.org/
-    name: 
-    country:
+    name: Alfred P. Sloan Foundation
+    country: United States of America 
 
   - image: /participants-logos/hrzz-logo-2.png
     link: https://hrzz.hr/en/
-    name: 
-    country:
+    name: Croatian Science Foundation – HRZZ
+    country: Croatia
     
   - image: /participants-logos/Wellcome_Trust_logo.svg.png
     link: https://wellcome.org/
-    name: 
-    country:
+    name: Wellcome Trust
+    country: Global
     
   - image: /participants-logos/logo_volkswagenstiftung_svg.1200x0.webp
     link: https://www.volkswagenstiftung.de/en/foundation
-    name: 
-    country:
+    name: The Volkswagen Foundation
+    country: Germany
     
   - image: /participants-logos/oecd_small-1140x530.jpeg
     link: https://www.oecd.org/netherlands/
-    name: 
-    country:
+    name: Organisation for Economic Co-operation and Development
+    country: Global
     
   - image: /participants-logos/JSPS.png
     link: https://www.jsps.go.jp/english/index.html
-    name: 
-    country:
+    name: Japan Society for the Promotion of Science
+    country: Japan
     
   - image: /participants-logos/new_brinlogo.png
     link: https://www.brin.go.id/
-    name: 
-    country:
+    name: Indonesian National Agency for Research and Innovation
+    country: Indonesia
     
   - image: /participants-logos/Science Europe.jpeg
     link: https://www.scienceeurope.org/
-    name: 
-    country:
+    name: Science Europe
+    country: Europe
     
   - image: /participants-logos/csic.png
     link: https://www.csic.es/en/csic
-    name: 
-    country:
+    name: The Spanish National Research Council
+    country: Spain
     
   - image: /participants-logos/Research Center for Open Science and Data Platform - Japan.png
     link: https://rcos.nii.ac.jp/en/
-    name: 
-    country:
+    name: National Institute of Informatics
+    country: Japan
     
   - image: /participants-logos/NII-Japan.png
     link: https://www.nii.ac.jp/en/
-    name: 
-    country:
+    name: Research Center for Open Science and Data Platform 
+    country: Japan
     
   - image: /participants-logos/RDA Logo_5.png
     link: https://www.rd-alliance.org/
-    name: 
-    country:
+    name: Research Data Alliance
+    country: Europe
     
   - image: /participants-logos/FAPERJ.jpeg
     link: https://www.faperj.br/
-    name: 
-    country:
+    name: Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro 
+    country: Brazil
     
   - image: /participants-logos/logo_fapemig.jpeg
     link: http://www.fapemig.br/pt/
-    name: 
-    country:
+    name: Minas Gerais State Agency for Research and Development 
+    country: Brazil
     
   - image: /participants-logos/logo splash.jpg
     link: https://ancperu.org/
-    name: 
-    country:
+    name: The National Academy of Sciences  
+    country: Peru
     
   - image: /participants-logos/RoRI_logo_1.png
     link: https://researchonresearch.org/
-    name: 
-    country:
+    name: Research on Research Institute
+    country: Global
+    
+  - image: /participants-logos/ioi-logo-sq-1.png
+    link: https://investinopen.org/
+    name: Invest in Open Infrastructure
+    country: Global
+    
+  - image: /participants-logos/ssi_logo_with_name-small2.png
+    link: https://www.software.ac.uk/
+    name: Software Sustainability Institute
+    country: United Kingdom
 
 ---
