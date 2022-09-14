@@ -200,5 +200,10 @@ participants:
     link: https://www.software.ac.uk/
     name: Software Sustainability Institute
     country: United Kingdom
+    
+  - image: /participants-logos/2301-national-research-foundation-south-africa-nrf.jpeg
+    link: https://www.nrf.ac.za/
+    name: National Research Foundation
+    country: South Africa
 
 ---
