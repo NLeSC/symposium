@@ -5,6 +5,10 @@
   export let data;
 </script>
 
+<svelte:head>
+  <title>Speakers</title>
+</svelte:head>
+
 <div class="container mx-auto mb-16 w-full ">
   <div class=" mt-10 max-w-4xl mx-auto text-left ">
     <SpeakersIntroduction />
