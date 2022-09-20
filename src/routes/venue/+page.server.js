@@ -5,9 +5,8 @@ export const prerender = true;
 export async function load({ params }) {
   // @ts-ignore
   const [{ metadata }] = Object.values(
-    import.meta.globEager("$content/venue.md")
+    import.meta.glob("$content/venue.md", { eager: true })
   );
-
   if (metadata) {
     return metadata;
   }
