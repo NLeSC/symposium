@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-  <title>About</title>
+  <title>Organizers</title>
 </svelte:head>
 
 <div class="max-w-screen-lg w-full mx-auto pt-20 px-3">
