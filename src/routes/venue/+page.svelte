@@ -6,7 +6,7 @@
 </script>
 
 <svelte:head>
-  <title>About</title>
+  <title>General info</title>
 </svelte:head>
 
 <div class="max-w-screen-lg w-full mx-auto py-20 px-3">
