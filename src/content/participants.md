@@ -206,4 +206,9 @@ participants:
     name: National Research Foundation
     country: South Africa
 
+  - image: /participants-logos/cancer-research-uk.png
+    link: https://www.cancerresearchuk.org/
+    name: Cancer Research UK
+    country: United Kingdom
+
 ---
