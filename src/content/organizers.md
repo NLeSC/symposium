@@ -30,7 +30,7 @@ organizers:
     image: https://www.esciencecenter.nl/wp-content/uploads/2020/02/IMG_0376-1-300x300.jpg
   - name: Sacha van Breugel
     desc: Event Manager
-    image: https://www.esciencecenter.nl/wp-content/uploads/2020/02/Foto-Sacha-4-300x300.jpg
+    image: Foto Sacha 4.jpg 
   - name: Joris van Eijnatten
     desc: General Director, The Netherlands eScience Center
     image: https://www.esciencecenter.nl/wp-content/uploads/2020/02/J.v.Eijnatten2-1-300x300.jpg
