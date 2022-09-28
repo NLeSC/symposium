@@ -10,7 +10,7 @@ image1: Hermitage2.png
 
 day0:
 
-  - time: 19.30 – 21.30
+  - time: 18.00 – 20.00
     activity: Meet & greet
 
 day1:
@@ -33,19 +33,22 @@ day1:
   - time: 12.15 – 13.30
     activity: Lunch
 
-  - time: 13.30 – 15.00
+  - time: 13.30 – 14.30
     activity: Continue breakout sessions
 
-  - time: 15.00 – 15.15
+  - time: 14.30 – 14.45
     activity: Break 
 
-  - time: 15.15 – 16.00
+  - time: 14.45 – 16.00
     activity: Continue breakout sessions
+    
+  - time: 16.00 – 16.10
+    activity: Break 
 
-  - time: 16.00 – 16.45
+  - time: 16.10 – 16.55
     activity: Keynote 2 
 
-  - time: 16.45 – 17.15
+  - time: 16.55 – 17.15
     activity: Wrap-up, gather for canal tour and group photo
 
   - time: 17.15 – 18.45
