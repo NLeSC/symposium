@@ -200,5 +200,10 @@ participants:
     link: https://www.cancerresearchuk.org/
     name: Cancer Research UK
     country: United Kingdom
+    
+  - image: /participants-logos/Simons-Foundation.jpg
+    link: https://www.simonsfoundation.org/
+    name: Simons Foundation
+    country: United States of America
 
 ---
