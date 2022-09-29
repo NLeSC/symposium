@@ -41,11 +41,6 @@ participants:
     name: German Research Foundation
     country: Germany
 
-  - image: /participants-logos/Forskningsråd, RCN (Norway) .png
-    link: https://www.forskningsradet.no/en/
-    name: The Research Council of Norway
-    country: Norway
-
   - image: /participants-logos/Fundação para a Ciência e Tecnologia, FCT (Portugal) .jpeg
     link: https://www.fct.pt/
     name: The Foundation for Science and Technology
@@ -90,11 +85,6 @@ participants:
     link: https://scienceforafrica.foundation/
     name: Science for Africa Foundation
     country: Africa 
-   
-  - image: /participants-logos/LuxembourgNationalResearchFund.png
-    link: https://www.fnr.lu/
-    name: Luxembourg National Research Fund
-    country: Luxembourg
    
   - image: /participants-logos/fapesp-logo_464.png
     link: https://fapesp.br/en
