@@ -10,8 +10,8 @@ image1: Hermitage2.png
 
 day0:
 
-  - time: 18.00 – 20.00
-    activity: Meet & greet
+  - time: 18.00 – 20.30
+    activity: Borrel (meet & greet with walking dinner)
 
 day1:
 
