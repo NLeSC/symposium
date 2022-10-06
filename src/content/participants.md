@@ -91,11 +91,6 @@ participants:
     name: São Paulo Research Foundation
     country: Brazil
     
-  - image: /participants-logos/National Science Foundation (1).jpg
-    link: https://www.nsf.gov/
-    name: National Science Foundation
-    country: United States of America 
-    
   - image: /participants-logos/NeSI logo.png
     link: https://www.nesi.org.nz/
     name: New Zealand eScience Infrastructure
