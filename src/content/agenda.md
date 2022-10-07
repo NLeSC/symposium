@@ -10,90 +10,90 @@ image1: Hermitage2.png
 
 day0:
 
-  - time: 18.00 – 20.30
+  - time: 18:00 – 20:30
     activity: Borrel (meet & greet with walking dinner)
 
 day1:
 
-  - time: 09.15 – 10.00
+  - time: 09:15 – 10:00
     activity: Registration & coffee/tea
 
-  - time: 10.00 – 10.15
-    activity: Welcome remarks 
+  - time: 10:00 – 10:15
+    activity: Welcome remarks by General Director of the Netherlands eScience Center, Joris van Eijnatten and Director of the Research Software Alliance, Michelle Barker
 
-  - time: 10.15 – 11.00
-    activity: Keynote 1 
+  - time: 10:15 – 10:30
+    activity: Opening remarks by Vice-President of the Dutch Research Council (NWO), Caroline Visser
 
-  - time: 11.00 – 11.15
-    activity: Break 
+  - time: 10:30 – 11:00
+    activity: Keynote 1
 
-  - time: 11.15 – 12.15
-    activity: Breakout sessions
+  - time: 11:00 – 11:15
+    activity: Break
 
-  - time: 12.15 – 13.30
+  - time: 11:15 – 11:45
+    activity: Keynote 2
+
+  - time: 11:45 – 12:30
+    activity: Breakout sessions 1
+
+  - time: 12:30 – 13:45
     activity: Lunch
 
-  - time: 13.30 – 14.30
-    activity: Continue breakout sessions
-
-  - time: 14.30 – 14.45
-    activity: Break 
-
-  - time: 14.45 – 16.00
-    activity: Continue breakout sessions
+  - time: 13:45 – 15.15
+    activity: Breakout sessions 2
     
-  - time: 16.00 – 16.10
-    activity: Break 
+  - time: 15:15 – 15:30
+    activity: Break with snack
 
-  - time: 16.10 – 16.55
-    activity: Keynote 2 
+  - time: 15:30 – 17:00
+    activity: Breakout sessions 3 
 
-  - time: 16.55 – 17.15
-    activity: Wrap-up, gather for canal tour and group photo
+  - time: 17:00 – 17:30
+    activity: Wrap-up and gather for canal tour
 
-  - time: 17.15 – 18.45
+  - time: 17:30 – 19:00
     activity: Canal tour with drinks & snacks on board
 
-  - time: 18.45 – 19.15
-    activity: Participants to take a break and prepare for dinner
+  - time: 19:00 – 19:30
+    activity: Break
 
-  - time: 19.15 – 20.30
-    activity: Dinner at the Kerkzaal in The Hermitage
+  - time: 19:30 – 21:30
+    activity: Dinner at the Kerkzaal in The Hermitage (and group picture)
  
 
 day2:
 
-  - time: 08.45 – 09.00
+  - time: 08:45 – 09:15
     activity: Coffee/tea
 
-  - time: 09:00 – 09.15
-    activity: Opening remarks for day 2
+  - time: 09:15 – 09:30
+    activity: Opening remarks by CEO of SURF, Jet de Ranitz
 
-  - time: 09.15 – 10.00
+  - time: 09:30 – 10:00
     activity: Keynote 3
 
-  - time: 10.00 – 11.15
-    activity: Breakout sessions
-
-  - time: 11.15 – 11.30
+  - time: 10:00 – 10:15
     activity: Break
 
-  - time: 11.30 – 12.15
-    activity: Breakout sessions
+  - time: 10:15 – 11:45
+    activity: Breakout sessions 4
 
-  - time: 12.15 – 13.30
+  - time: 11:45 – 12:15
+    activity: Keynote 4
+
+  - time: 12:15 – 13:15
     activity: Lunch
 
-  - time: 13.30 – 14.15
-    activity: Keynote 4 
+  - time: 13:15 – 14:45
+    activity: Brekaout sessions 5 
 
-  - time: 14.15 – 15.30
-    activity: Continue breakout sessions
+  - time: 14:45 – 15:00
+    activity: Coffee break with snacks
 
-  - time: 15.30 – 16.00
+  - time: 15:00 – 15:30
     activity: Closing remarks
 
-  - time: 16.00 – 17.30
-    activity: Drinks
+  - time: 15:30 – 17:00
+    activity: Closing drinks
 
 ---
