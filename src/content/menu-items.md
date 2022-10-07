@@ -17,5 +17,8 @@ menu:
 
 - name: Participants
   url: /#participants
+  
+- name: Pre-workshop
+  url: /preworkshop
 
 ---
