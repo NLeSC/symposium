@@ -200,5 +200,10 @@ participants:
     link: https://www.simonsfoundation.org/
     name: Simons Foundation
     country: United States of America
+    
+  - image: /participants-logos/SNF_logo_standard_web_color_pos_e.png
+    link: https://www.snf.ch/en
+    name: Swiss National Science Foundation
+    country: Switzerland
 
 ---
