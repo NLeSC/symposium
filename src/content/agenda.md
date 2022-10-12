@@ -85,7 +85,7 @@ day2:
     activity: Lunch
 
   - time: 13:15 – 14:15
-    activity: Brekaout sessions 5 
+    activity: Breakout sessions 5 
 
   - time: 14:15 – 14:45
     activity: Panel session with breakout session chairs
