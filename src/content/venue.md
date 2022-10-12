@@ -74,6 +74,7 @@ You can also travel by boat: there is a landing right in front of the main entra
 We recommend you take the [Hermitage's](https://hermitage.nl/nl/plan-uw-bezoek/adres-route/) advice on how to get there.
 
 ### COVID-19 measures
+We take COVID-19 precautions seriously and want to ensure the safety of all participants. Therefore, we are implementing the following COVID-19 measures:
 * There will be free face masks and self-tests available at the venue at the beginning and throughout the conference
 * Name badges can be used (using a colored sticker) to show that the carrier appreciates social distancing.
 * The organization recommends attendees to take social responsiblity and take relevant measures before and during the conference, such as self-testing 
