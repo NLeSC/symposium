@@ -79,7 +79,7 @@ day2:
     activity: Breakout sessions 4
 
   - time: 11:45 – 12:15
-    activity: Keynote 4 by Fabio Kon, São Paulo Research Foundation (FAPESP) and Professor of Computer Science the University of São Paulo
+    activity: Keynote 4 by Fabio Kon, Special Advisor to the São Paulo Research Foundation (FAPESP) and Professor of Computer Science at the University of São Paulo
 
   - time: 12:15 – 13:15
     activity: Lunch
