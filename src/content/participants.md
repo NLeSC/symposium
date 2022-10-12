@@ -200,5 +200,10 @@ participants:
     link: https://www.snf.ch/en
     name: Swiss National Science Foundation
     country: Switzerland
+    
+  - image: /participants-logos/aka_logo_eng_0-1024x491.png
+    link: https://www.aka.fi/en/
+    name: Academy of Finland
+    country: Finland
 
 ---
