@@ -72,3 +72,8 @@ The workshop will take place at the [Dutch Hermitage Amsterdam](https://hermitag
 There are several car parks and hotels within walking distance of the museum. The Hermitage Amsterdam is easy to reach by car and by public transport. 
 You can also travel by boat: there is a landing right in front of the main entrance by the Amstel river. 
 We recommend you take the [Hermitage's](https://hermitage.nl/nl/plan-uw-bezoek/adres-route/) advice on how to get there.
+
+### COVID-19 measures
+* There will be free face masks and self-tests available at the venue at the beginning and throughout the conference
+* Name badges can be used (using a colored sticker) to show that the carrier appreciates social distancing.
+* The organization recommends attendees to take social responsiblity and take relevant measures before and during the conference, such as self-testing 
