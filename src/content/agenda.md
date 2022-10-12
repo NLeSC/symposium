@@ -45,13 +45,13 @@ day1:
   - time: 15:15 – 15:30
     activity: Break with snack
 
-  - time: 15:30 – 17:00
+  - time: 15:30 – 16:45
     activity: Breakout sessions 3 
 
-  - time: 17:00 – 17:30
-    activity: Wrap-up and gather for canal tour
+  - time: 16:45 – 17:30
+    activity: Wrap-up by breakout session chairs and gather for canal tour
 
-  - time: 17:30 – 19:00
+  - time: 17:30 – 18:45
     activity: Canal tour with drinks & snacks on board
 
   - time: 19:00 – 19:30
@@ -84,8 +84,11 @@ day2:
   - time: 12:15 – 13:15
     activity: Lunch
 
-  - time: 13:15 – 14:45
+  - time: 13:15 – 14:15
     activity: Brekaout sessions 5 
+
+  - time: 14:15 – 14:45
+    activity: Panel session with breakout session chairs
 
   - time: 14:45 – 15:00
     activity: Coffee break with snacks
