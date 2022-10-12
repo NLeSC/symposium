@@ -1,2 +1,4 @@
 # Pre-Workshop
-Information coming soon. 
+The [Australian Research Data Commons (ARDC)](https://ardc.edu.au/) and the [Research Software Alliance (ReSA)](https://www.researchsoft.org/) would like to invite you to a pre-meeting workshop on research software visibility. The workshop will be held at the [Netherlands eScience Center](https://www.google.com/maps/place/Netherlands+eScience+Center/@52.356719,4.9568783,15z/data=!4m5!3m4!1s0x0:0x7c1ae2f2d3375410!8m2!3d52.356719!4d4.9568783) on Monday November 7 from 13:00 to 16:30 (including lunch from 13:00 to 13:30). 
+ 
+There are specific moments in the processes associated with funding that can influence visibility: the eligibility criteria, the assessment of the proposals, the policy for funded projects and the evaluation/capture of the funding outcomes (both individually and as a portfolio). The workshop will explore what actions funders could take at each of those moments to increase the visibility of any resulting software. Please reply to Tom Honeyman (tom.honeyman@ardc.edu.au) from the ARDC if you'd be interested in attending. 
