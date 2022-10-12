@@ -21,11 +21,6 @@ participants:
     name: Chan Zuckerberg Initiative 
     country: United States of America
 
-  - image: participants-logos/nasa-logo-web-rgb.png
-    link: https://www.nasa.gov/
-    name: NASA
-    country: United States of America
-
   - image: participants-logos/Agence nationale de la recherche, ANR (France).jpeg
     link: https://www.anr.fr/
     name: French National Research Agency
