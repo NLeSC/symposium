@@ -19,19 +19,19 @@ day1:
     activity: Registration & coffee/tea
 
   - time: 10:00 – 10:15
-    activity: Welcome remarks by General Director of the Netherlands eScience Center, Joris van Eijnatten and Director of the Research Software Alliance, Michelle Barker
+    activity: Welcome remarks by Joris van Eijnatten, General Director of the Netherlands eScience Center and Michelle Barker, Director of the Research Software Alliance
 
   - time: 10:15 – 10:30
-    activity: Opening remarks by Vice-President of the Dutch Research Council (NWO), Caroline Visser
+    activity: Opening remarks by Caroline Visser, Vice-President of the Dutch Research Council (NWO)
 
   - time: 10:30 – 11:00
-    activity: Keynote 1
+    activity: Keynote 1 by Daniel S. Katz, Chief Scientist for the National Center for Supercomputing Applications
 
   - time: 11:00 – 11:15
     activity: Break
 
   - time: 11:15 – 11:45
-    activity: Keynote 2
+    activity: Keynote 2 by Carole Goble, professor of computer science, University of Manchester
 
   - time: 11:45 – 12:30
     activity: Breakout sessions 1
@@ -70,7 +70,7 @@ day2:
     activity: Opening remarks by CEO of SURF, Jet de Ranitz
 
   - time: 09:30 – 10:00
-    activity: Keynote 3
+    activity: Keynote 3 by Joeri van Leeuwen, Astrophysicist at ASTRON and University of Amsterdam
 
   - time: 10:00 – 10:15
     activity: Break
@@ -79,7 +79,7 @@ day2:
     activity: Breakout sessions 4
 
   - time: 11:45 – 12:15
-    activity: Keynote 4
+    activity: Keynote 4 by Fabio Kon, São Paulo Research Foundation (FAPESP) and Professor of Computer Science the University of São Paulo
 
   - time: 12:15 – 13:15
     activity: Lunch
