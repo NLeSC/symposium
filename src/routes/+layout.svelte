@@ -9,7 +9,7 @@
   export let data
 
   afterNavigate(() => {
-    // document.getElementById("main").scrollTop = 0;
+    document.getElementById("content").scrollTop = 0;
   });
 </script>
 
@@ -17,7 +17,7 @@
   <div class="drawer">
     <label for="my-drawer-3"/>
     <input id="my-drawer-3" type="checkbox" class="drawer-toggle"/>
-    <div class="drawer-content flex flex-col ">
+    <div id="content" class="drawer-content flex flex-col ">
       <!-- Navbar -->
       <div class="bg-[#19331D] lg:sticky lg:-top-[1px] z-10 bg-opacity-95
 						 backdrop-filter backdrop-blur">
