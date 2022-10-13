@@ -1,32 +1,27 @@
 ---
 # list of participants
 participants:
-  - image: /participants-logos/ReSA logo.png
+  - image: participants-logos/ReSA logo.png
     link: https://www.researchsoft.org
     name: The Research Software Alliance
     country: Global
     
-  - image: /participants-logos/netherlands-escience-center-logo-RGB.png
+  - image: participants-logos/netherlands-escience-center-logo-RGB.png
     link: https://www.esciencecenter.nl/
     name: The Netherlands eScience Center
     country: The Netherlands
     
-  - image: /participants-logos/1200px-US-OfficeOfScienceAndTechnologyPolicy-Seal.svg.png
+  - image: participants-logos/1200px-US-OfficeOfScienceAndTechnologyPolicy-Seal.svg.png
     link: https://www.whitehouse.gov/ostp/
     name:  The White House - Office of Science and Technology Policy
     country: United States of America
     
-  - image: /participants-logos/Chan_Zuckerberg_Initiative.svg.png
+  - image: participants-logos/Chan_Zuckerberg_Initiative.svg.png
     link: https://chanzuckerberg.com/
     name: Chan Zuckerberg Initiative 
     country: United States of America
 
-  - image: /participants-logos/nasa-logo-web-rgb.png
-    link: https://www.nasa.gov/
-    name: NASA
-    country: United States of America
-
-  - image: /participants-logos/Agence nationale de la recherche, ANR (France).jpeg
+  - image: participants-logos/Agence nationale de la recherche, ANR (France).jpeg
     link: https://www.anr.fr/
     name: French National Research Agency
     country: France
@@ -205,5 +200,10 @@ participants:
     link: https://www.snf.ch/en
     name: Swiss National Science Foundation
     country: Switzerland
+    
+  - image: /participants-logos/aka_logo_eng_0-1024x491.png
+    link: https://www.aka.fi/en/
+    name: Academy of Finland
+    country: Finland
 
 ---
