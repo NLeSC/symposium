@@ -1,15 +1,17 @@
 <script lang="ts">
-  import { afterNavigate } from "$app/navigation";
+  import {afterNavigate} from "$app/navigation";
   import Logo from '$lib/Logo.svelte'
   import AppFooter from "$lib/AppFooter.svelte";
   import "../app.css"
-
 
   // const [{metadata}] = Object.values(import.meta.globEager("$content/menu-items.md"))
   export let data
 
   afterNavigate(() => {
-    document.getElementById("content").scrollTop = 0;
+    console.log('🎹 window', window.location);
+    if (!window.location.hash) {
+      document.getElementById("content").scrollTop = 0;
+    }
   });
 </script>
 
@@ -31,6 +33,7 @@
               </svg>
             </label>
             <Logo/>
+            <Logo/>
           </div>
 
           <div class="hidden w-full sm:flex justify-between items-center">
@@ -45,18 +48,18 @@
                 </li>
               {/each}
             </ul>
-<!--            <SocialIcons/>-->
+            <!--            <SocialIcons/>-->
           </div>
         </div>
       </div>
       <!-- Page content here -->
       <div class="flex-1">
-        <slot />
+        <slot/>
       </div>
       <AppFooter/>
 
     </div>
-<!--    Drawer side-->
+    <!--    Drawer side-->
     <div class="drawer-side ">
       <label for="my-drawer-3" class="drawer-overlay"></label>
       <!-- Sidebar content here -->
@@ -77,9 +80,9 @@
             </li>
           {/each}
         </ul>
-<!--        <div class="mt-6">-->
-<!--          <SocialIcons/>-->
-<!--        </div>-->
+        <!--        <div class="mt-6">-->
+        <!--          <SocialIcons/>-->
+        <!--        </div>-->
       </ul>
     </div>
   </div>
