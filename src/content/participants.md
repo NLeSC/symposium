@@ -1,27 +1,27 @@
 ---
 # list of participants
 participants:
-  - image: participants-logos/ReSA logo.png
+  - image: /participants-logos/ReSA logo.png
     link: https://www.researchsoft.org
     name: The Research Software Alliance
     country: Global
     
-  - image: participants-logos/netherlands-escience-center-logo-RGB.png
+  - image: /participants-logos/netherlands-escience-center-logo-RGB.png
     link: https://www.esciencecenter.nl/
     name: The Netherlands eScience Center
     country: The Netherlands
     
-  - image: participants-logos/1200px-US-OfficeOfScienceAndTechnologyPolicy-Seal.svg.png
+  - image: /participants-logos/1200px-US-OfficeOfScienceAndTechnologyPolicy-Seal.svg.png
     link: https://www.whitehouse.gov/ostp/
     name:  The White House - Office of Science and Technology Policy
     country: United States of America
     
-  - image: participants-logos/Chan_Zuckerberg_Initiative.svg.png
+  - image: /participants-logos/Chan_Zuckerberg_Initiative.svg.png
     link: https://chanzuckerberg.com/
     name: Chan Zuckerberg Initiative 
     country: United States of America
 
-  - image: participants-logos/Agence nationale de la recherche, ANR (France).jpeg
+  - image: /participants-logos/Agence nationale de la recherche, ANR (France).jpeg
     link: https://www.anr.fr/
     name: French National Research Agency
     country: France
