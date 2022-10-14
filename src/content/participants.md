@@ -20,6 +20,11 @@ participants:
     link: https://chanzuckerberg.com/
     name: Chan Zuckerberg Initiative 
     country: United States of America
+    
+  - image: /participants-logos/01_8-bar-positive.svg
+    link: https://www.ibm.com/nl-en
+    name: IBM
+    country: United States of America
 
   - image: /participants-logos/Agence nationale de la recherche, ANR (France).jpeg
     link: https://www.anr.fr/
