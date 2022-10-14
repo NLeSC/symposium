@@ -94,7 +94,7 @@ day2:
     activity: Coffee break with snacks
 
   - time: 15:00 – 15:30
-    activity: Wrap-up by Neil P. Chue Hong, director of the Software Sustainability Institute UK and professor of Research Software Policy and 
+    activity: Wrap-up by Neil P. Chue Hong, director of the Software Sustainability Institute UK and professor of Research Software Policy  
 
   - time: 15:30 – 17:00
     activity: Closing drinks
