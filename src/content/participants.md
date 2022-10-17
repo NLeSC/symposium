@@ -210,5 +210,10 @@ participants:
     link: https://www.aka.fi/en/
     name: Academy of Finland
     country: Finland
+    
+  - image: /participants-logos/logo-redclara.png
+    link: https://www.redclara.net/index.php/en/
+    name: RedCLARA
+    country: Uruguay
 
 ---
