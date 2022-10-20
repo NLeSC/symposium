@@ -43,28 +43,52 @@ The Netherlands eScience Center shall not be liable for any damages of any kind,
   </p>
 
 
-
   <!---->
   <div class="mt-10 mb-40">
     <div class="font-bold text-xl mb-6">
       {data.title3}
     </div>
-    <div class="flex gap-8">
-      <div class="w-1/3">
+    <p class="my-4">
+      In workshop sessions, participants will discuss how funders can contribute to the following workshop themes:
+    </p>
+    <div class="flex items-center gap-8">
+      <div class="">
         <img src={data.image3} class="my-2 w-full h-auto rounded" alt="about part 3">
       </div>
-      <div class="w-2/3 prose text-[#1f2937]">
-        <p>
-          In workshop sessions, participants will discuss how funders can contribute to the following workshop themes:
-        </p>
-        <ul>
-          <li>Structurally improving sustainability and reuse of research software</li>
-          <li>Designing funding mechanisms to sustain research software communities</li>
-          <li>Combining funding mechanisms to support sustainable research software</li>
-          <li>Improving the research software skills of researchers and research support staff</li>
-          <li>Supporting the recognition and career paths of people involved in research software</li>
-        </ul>
+      <div class=" prose text-[#1f2937]">
+
+        <table class="table-auto">
+          <!-- head -->
+          <thead>
+          <tr>
+            <th>Theme</th>
+            <th>Description</th>
+          </tr>
+          </thead>
+          <tbody>
+          <!-- row -->
+          <tr>
+            <th>Open science & software sustainability</th>
+            <td>Clarify how software sustainability should relate to and fits into existing and emerging open science policies</td>
+          </tr>
+          <!-- row -->
+          <tr>
+            <th>Funding instruments</th>
+            <td>Improve and adjust funding mechanisms within and across institutional or national boundaries to facilitate the development, use and maintenance
+              of sustainable research software
+            </td>
+          </tr>
+          <!-- row -->
+          <tr>
+            <th>Rewards, culture & research assessment</th>
+            <td>Define and establish measures that support the recognition of people involved in the development of sustainable research software</td>
+          </tr>
+
+          </tbody>
+        </table>
       </div>
     </div>
   </div>
 </div>
+
+
