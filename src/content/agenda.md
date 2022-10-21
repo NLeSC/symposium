@@ -49,7 +49,7 @@ day1:
     activity: Breakout sessions 3 
 
   - time: 16:45 – 17:30
-    activity: Wrap-up by breakout session chairs and gather for canal tour
+    activity: Report back from breakout sessions and gather for canal tour
 
   - time: 17:30 – 18:45
     activity: Canal tour with drinks & snacks on board
