@@ -88,7 +88,7 @@ day2:
     activity: Breakout sessions 5 
 
   - time: 14:15 – 14:45
-    activity: Panel session with breakout session chairs
+    activity: Report back from breakout sessions
 
   - time: 14:45 – 15:00
     activity: Coffee break with snacks
